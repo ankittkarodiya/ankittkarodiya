@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ankittkarodiya/ankittkarodiya/output/snake.svg" alt="Snake animation" />
+
 
 ###
